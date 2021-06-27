@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using GithubLab.Models;
+using System.IO;
 
 namespace GithubLab.Controllers
 {
@@ -33,7 +34,12 @@ namespace GithubLab.Controllers
         {
             return View(new ErrorViewModel {RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier});
         }
-        
+
+        public IActionResult Pictures()
+        {
+            return View();
+        }
+
         public IActionResult Members()
         {
             return View();

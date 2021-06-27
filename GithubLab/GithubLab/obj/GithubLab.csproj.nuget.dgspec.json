@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\المعسكر\\الاسبوع 10\\MVCAAB\\GithubLab\\GithubLab\\GithubLab.csproj": {}
+    "C:\\Users\\Abdullah\\Desktop\\Tuwaiq\\Git\\M3W1\\MVCAAB\\GithubLab\\GithubLab\\GithubLab.csproj": {}
   },
   "projects": {
-    "D:\\المعسكر\\الاسبوع 10\\MVCAAB\\GithubLab\\GithubLab\\GithubLab.csproj": {
+    "C:\\Users\\Abdullah\\Desktop\\Tuwaiq\\Git\\M3W1\\MVCAAB\\GithubLab\\GithubLab\\GithubLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\المعسكر\\الاسبوع 10\\MVCAAB\\GithubLab\\GithubLab\\GithubLab.csproj",
+        "projectUniqueName": "C:\\Users\\Abdullah\\Desktop\\Tuwaiq\\Git\\M3W1\\MVCAAB\\GithubLab\\GithubLab\\GithubLab.csproj",
         "projectName": "GithubLab",
-        "projectPath": "D:\\المعسكر\\الاسبوع 10\\MVCAAB\\GithubLab\\GithubLab\\GithubLab.csproj",
-        "packagesPath": "C:\\Users\\IBRA\\.nuget\\packages\\",
-        "outputPath": "D:\\المعسكر\\الاسبوع 10\\MVCAAB\\GithubLab\\GithubLab\\obj\\",
+        "projectPath": "C:\\Users\\Abdullah\\Desktop\\Tuwaiq\\Git\\M3W1\\MVCAAB\\GithubLab\\GithubLab\\GithubLab.csproj",
+        "packagesPath": "C:\\Users\\Abdullah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdullah\\Desktop\\Tuwaiq\\Git\\M3W1\\MVCAAB\\GithubLab\\GithubLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IBRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abdullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

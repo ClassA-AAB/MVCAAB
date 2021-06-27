@@ -4,7 +4,83 @@
     <projectFile>GithubLab/GithubLab.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="023ad439-ed97-45da-8f6f-d370ab91fe68" name="Default Changelist" comment="" />
+
+    <list default="true" id="018b1c71-6fcb-44cd-aa1b-8e0c316cccd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.GithubLab/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.GithubLab/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.GithubLab/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/GithubLab/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/GithubLab/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/Controllers/HomeController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/GithubLab.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/Models/ErrorViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/Views/Home/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/Views/Home/Privacy.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/Views/Shared/Error.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/Views/_ViewImports.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/Views/_ViewStart.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/obj/Debug/net5.0/GithubLab.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/obj/Debug/net5.0/GithubLab.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/obj/Debug/net5.0/GithubLab.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/obj/Debug/net5.0/GithubLab.RazorAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/obj/Debug/net5.0/GithubLab.RazorAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/obj/Debug/net5.0/GithubLab.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/obj/Debug/net5.0/GithubLab.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/obj/GithubLab.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/obj/GithubLab.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/obj/GithubLab.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/js/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GithubLab/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +89,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/GithubLab/Controllers/MembersController.cs" />
@@ -68,12 +145,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="018b1c71-6fcb-44cd-aa1b-8e0c316cccd7" name="Default Changelist" comment="" />
+      <created>1624791701916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624791701916</updated>
+      <workItem from="1624791704005" duration="736000" />
+
       <changelist id="023ad439-ed97-45da-8f6f-d370ab91fe68" name="Default Changelist" comment="" />
       <created>1624791966424</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624791966424</updated>
-      <workItem from="1624791983144" duration="1022000" />
+      <workItem from="1624791983144" duration="316000" />
     </task>
     <servers />
   </component>
