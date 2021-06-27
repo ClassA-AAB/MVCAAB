@@ -88,7 +88,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1uWqSxt6RSLqzKbjrebwZVwFdk1" />
+=======
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/GithubLab/Controllers/MembersController.cs" />
+      <option value="$PROJECT_DIR$/GithubLab/Pages/Members/Index.cshtml" />
+      <option value="$PROJECT_DIR$/GithubLab/Controllers/HomeController.cs" />
+      <option value="$PROJECT_DIR$/GithubLab/Views/Home/Members.cshtml" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1uWr0i7IWxIV2y9gg6DRFnnPalp" />
+>>>>>>> 90ba74401f719c4c3c62071367f27922c6e02256
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -135,12 +147,21 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="018b1c71-6fcb-44cd-aa1b-8e0c316cccd7" name="Default Changelist" comment="" />
       <created>1624791701916</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624791701916</updated>
       <workItem from="1624791704005" duration="736000" />
+=======
+      <changelist id="023ad439-ed97-45da-8f6f-d370ab91fe68" name="Default Changelist" comment="" />
+      <created>1624791966424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624791966424</updated>
+      <workItem from="1624791983144" duration="316000" />
+>>>>>>> 90ba74401f719c4c3c62071367f27922c6e02256
     </task>
     <servers />
   </component>
@@ -149,7 +170,20 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> 90ba74401f719c4c3c62071367f27922c6e02256
   </component>
 </project>
