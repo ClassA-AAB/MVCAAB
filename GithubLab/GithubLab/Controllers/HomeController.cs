@@ -37,8 +37,9 @@ namespace GithubLab.Controllers
 
         public IActionResult Pictures()
         {
-            
-        
+            return View();
+        }
+
         public IActionResult Members()
         {
             return View();
