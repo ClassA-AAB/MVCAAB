@@ -4,16 +4,7 @@
     <projectFile>GithubLab/GithubLab.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="023ad439-ed97-45da-8f6f-d370ab91fe68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/GithubLab/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GithubLab/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GithubLab/obj/Debug/net5.0/GithubLab.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GithubLab/obj/Debug/net5.0/GithubLab.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GithubLab/obj/GithubLab.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GithubLab/obj/GithubLab.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GithubLab/obj/GithubLab.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/GithubLab/obj/GithubLab.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GithubLab/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GithubLab/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GithubLab/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GithubLab/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GithubLab/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GithubLab/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GithubLab/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/GithubLab/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="023ad439-ed97-45da-8f6f-d370ab91fe68" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624791966424</updated>
-      <workItem from="1624791983144" duration="316000" />
+      <workItem from="1624791983144" duration="1022000" />
     </task>
     <servers />
   </component>
